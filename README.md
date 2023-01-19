@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨🏽‍💻 Estudando Engenharia de Software
+- 👨🏽‍💻 Estudando Ciência da Computação
 - 📫 Contato: luuizhpenga@gmail.com
 
  <div>
