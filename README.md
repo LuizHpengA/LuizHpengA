@@ -1,4 +1,3 @@
-##
 - 👨🏽‍💻 Estudando Ciência da Computação
 - 📫 Contato: luuizhpenga@gmail.com
 ##
